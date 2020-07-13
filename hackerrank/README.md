@@ -15,3 +15,5 @@
 13. Project Euler #13 : [problem](https://www.hackerrank.com/contests/projecteuler/challenges/euler013/problem) | [solution](project_euler/013.cpp)
 14. Project Euler #14 : [problem](https://www.hackerrank.com/contests/projecteuler/challenges/euler014/problem) | [solution](project_euler/014.cpp)
 15. Project Euler #15 : [problem](https://www.hackerrank.com/contests/projecteuler/challenges/euler015/problem) | [solution](project_euler/015.cpp)
+16. Project Euler #16 : [problem](https://www.hackerrank.com/contests/projecteuler/challenges/euler016/problem) | [solution](project_euler/016.cpp)
+17. Project Euler #17 : [problem](https://www.hackerrank.com/contests/projecteuler/challenges/euler017/problem) | [solution](project_euler/017.cpp)
